@@ -120,6 +120,15 @@ span.navbar-text {
     display: flex;
     align-items: center;
 }
+.custom-toggler {
+  border: none;
+  padding: 0;
+  background-color: transparent;
+}
+.custom-toggler .navbar-toggler-icon {
+  display: none;
+}
+
 .social-icon {
     display: inline-block;
     margin-left: 14px;

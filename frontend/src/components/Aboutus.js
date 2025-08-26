@@ -7,7 +7,7 @@ export const Newsletter = ({ status, message, onValidated }) => {
   }, [status])
 
   const clearFields = () => {
-    // Clear any fields if needed
+   
   }
 
   return (
